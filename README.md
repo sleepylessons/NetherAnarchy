@@ -4,15 +4,11 @@ Here, you can view any open or past issues with the NetherAnarchy minecraft serv
 ## How to submit an issue
 - Go to the Issues tab
 - Click the green "New Issue" button
-- Give your issue a descriptive Title
-- Add the following format below to your issue and fill out all sections:
+- Choose "Bug Report" as the type of issue
+- Fill out the Bug Report template; if you do not fill it out completely your issue will be closed.
 
-```
-1. Short overview of the issue
-
-2. Steps to reproduce the issue (describe how you can cause this issue to happen)
-
-3. Is this issue new / recently noticed, or something that's been happening for a while?
-
-4. Screenshots of the issue, if relevant
-```
+## How to suggest a feature
+- Go to the Issues tab
+- Click the green "New Issue" button
+- Choose "Feature Request" as the type of issue
+- Fill out the Feature Request template; if you do not fill it out completely your issue will be closed.
