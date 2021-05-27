@@ -1,5 +1,5 @@
 # NetherAnarchy Issue Tracker
-Here, you can view any open or past issues with the NetherAnarchy minecraft server. Please follow the formatting below if you'd like to submit a new issue.
+Here, you can view any open or past issues with the NetherAnarchy Minecraft server.
 
 ## How to submit a Bug report
 - Go to the Issues tab
