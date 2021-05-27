@@ -7,7 +7,7 @@ Here, you can view any open or past issues with the NetherAnarchy minecraft serv
 - Choose "Bug Report" as the type of issue
 - Fill out the Bug Report template; if you do not fill it out completely your issue will be closed.
 
-## How to suggest a Feature request
+## How to submit a Feature request
 - Go to the Issues tab
 - Click the green "New Issue" button
 - Choose "Feature Request" as the type of issue
