@@ -1,5 +1,5 @@
 # NetherAnarchy Issue Tracker
-Here, you can view any open or past issues with the NetherAnarchy Minecraft server.
+Here, you can view any open or past issues with the NetherAnarchy Minecraft server. You can find information about Mob Limits in our Wiki: https://github.com/sleepylessons/NetherAnarchy/wiki
 
 ## How to submit a Bug report
 - Go to the Issues tab
